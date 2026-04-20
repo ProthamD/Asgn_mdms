@@ -1,0 +1,16 @@
+[
+  {
+    "id": "D001",
+    "name": "Alpha Traders",
+    "contact": "9876543210",
+    "email": "alpha@traders.com",
+    "address": "12 Market Street, Mumbai"
+  },
+  {
+    "id": "D002",
+    "name": "Beta Distributors",
+    "contact": "9123456789",
+    "email": "beta@distributors.com",
+    "address": "45 Commerce Road, Delhi"
+  }
+]

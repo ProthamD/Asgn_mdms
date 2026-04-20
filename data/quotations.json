@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Q001",
+    "supplierId": "S001",
+    "productId": "P001",
+    "quantity": 100,
+    "pricePerUnit": 140,
+    "validUntil": "2026-05-01T00:00:00.000Z",
+    "status": "selected",
+    "orderId": "ORD001"
+  }
+]

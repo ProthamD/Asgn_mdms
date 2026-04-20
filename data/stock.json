@@ -1,0 +1,17 @@
+[
+  {
+    "productId": "P001",
+    "quantity": 200,
+    "lastUpdated": "2026-04-01T10:00:00.000Z"
+  },
+  {
+    "productId": "P002",
+    "quantity": 500,
+    "lastUpdated": "2026-04-01T10:00:00.000Z"
+  },
+  {
+    "productId": "P003",
+    "quantity": 150,
+    "lastUpdated": "2026-04-01T10:00:00.000Z"
+  }
+]
