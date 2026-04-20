@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ORD001",
+    "dealerId": "D001",
+    "items": [
+      { "productId": "P001", "quantity": 50 },
+      { "productId": "P002", "quantity": 100 }
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-02T09:00:00.000Z",
+    "updatedAt": "2026-04-05T14:00:00.000Z",
+    "invoice": {
+      "invoiceId": "INV001",
+      "orderId": "ORD001",
+      "dealerId": "D001",
+      "dealerName": "Alpha Traders",
+      "lineItems": [
+        { "productId": "P001", "productName": "Steel Rod",   "quantity": 50,  "pricePerUnit": 150, "total": 7500 },
+        { "productId": "P002", "productName": "Copper Wire", "quantity": 100, "pricePerUnit": 85,  "total": 8500 }
+      ],
+      "subtotal": 16000,
+      "tax": 2880,
+      "grandTotal": 18880,
+      "generatedAt": "2026-04-05T14:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "S001",
+    "name": "MetalWorks Ltd",
+    "contact": "9000011111",
+    "email": "supply@metalworks.com",
+    "products": ["P001"]
+  },
+  {
+    "id": "S002",
+    "name": "ElectroParts Co",
+    "contact": "9000022222",
+    "email": "sales@electroparts.com",
+    "products": ["P002", "P003"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "P001",
+    "name": "Steel Rod",
+    "description": "High-tensile steel rod, 10mm diameter",
+    "price": 150,
+    "unit": "piece"
+  },
+  {
+    "id": "P002",
+    "name": "Copper Wire",
+    "description": "Electrical-grade copper wire, 2.5mm",
+    "price": 85,
+    "unit": "meter"
+  },
+  {
+    "id": "P003",
+    "name": "Plastic Casing",
+    "description": "ABS plastic enclosure, 20x15cm",
+    "price": 60,
+    "unit": "piece"
+  }
+]
